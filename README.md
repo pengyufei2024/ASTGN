@@ -1,6 +1,9 @@
 Network Traffic Prediction with Attention-based Spatial-Temporal Graph Network
 
-<img src="https://github.com/pengyufei2024/ASTGN/blob/main/figure/ASTGN.png" width="50%" div align=center />
+
+<div align=center>
+<img src="https://github.com/pengyufei2024/ASTGN/blob/main/figure/ASTGN.png" width="50%">
+</div>
 
 # Requirements
 see requirements.txt
