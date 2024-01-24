@@ -1,7 +1,6 @@
-![image](https://github.com/pengyufei2024/ASTGN/assets/157557824/6fac0600-8c35-4bf3-8e1d-93bf0e2bee17)![image](https://github.com/pengyufei2024/ASTGN/assets/157557824/a9e73cae-650e-4799-b535-c90aa78634c6)# ASTGN
 Network Traffic Prediction with Attention-based Spatial-Temporal Graph Network
 
-<img src="https://github.com/pengyufei2024/ASTGN/blob/main/figure/ASTGN.png" width="50%">
+<img src="https://github.com/pengyufei2024/ASTGN/blob/main/figure/ASTGN.png" width="50%" div align=center />
 
 # Requirements
 see requirements.txt
