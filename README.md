@@ -6,11 +6,11 @@
 </div>
 
 # Requirements
-see requirements.txt
+see `requirements.txt`
 
 
 # Data Preparation
-1.Download the network traffic matrix dataset and generate the .h5 dataset file using 'GenerateDataset.py', the .h5 file should be placed in the `data/` folder.
+1.Download the network traffic matrix dataset and generate the .h5 dataset file using `GenerateDataset.py`, the .h5 file should be placed in the `data/` folder.
 
 ```
 python GenerateDataset.py
